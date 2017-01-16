@@ -15,7 +15,7 @@
             <div class="col-md-6 col-md-offset-3">
                 <form action="#">
                     <p><input type="text" id="search" placeholder="Cari Video" autocomplete="off" class="form-control" /></p>
-                    <p><input type="submit" value="Search" class="form-control btn btn-primary w100"></p>
+                    <p><input type="submit" value="Cari" class="form-control btn btn-primary w100"></p>
                 </form>
                 <div id="results"></div>
             </div>
