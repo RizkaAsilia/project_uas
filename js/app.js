@@ -27,3 +27,14 @@ $(function() {
     
     $(window).on("resize", resetVideoHeight);
 });
+
+function resetVideoHeight() {
+    $(".video").css("height", $("#results").width() * 9/16);
+}
+
+function init() {
+    gapi.client.setApiKey("AIzaSyC0KyZwb3hvGgLUr7Ke0GZ8-rlW38b_Pbc");
+    gapi.client.load("youtube", "v3", function() {
+        // yt api is ready
+    });
+}
