@@ -9,12 +9,12 @@
     </head>
     <body>
         <header>
-            <h1 class="w100 text-center"><a href="index.php">Cari Video Yang Viewer Terbanyak</a></h1>
+            <h1 class="w100 text-center"><a href="index.php">Cari Video Viewer Terbanyak</a></h1>
         </header>
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
                 <form action="#">
-                    <p><input type="text" id="search" placeholder="Type something..." autocomplete="off" class="form-control" /></p>
+                    <p><input type="text" id="search" placeholder="Cari Video" autocomplete="off" class="form-control" /></p>
                     <p><input type="submit" value="Search" class="form-control btn btn-primary w100"></p>
                 </form>
                 <div id="results"></div>
