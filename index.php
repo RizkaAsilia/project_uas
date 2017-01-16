@@ -1,6 +1,6 @@
 <html lang="en">
     <head>		
-        <title>Youtube Search</title>
+        <title>Pencarian Video Youtube</title>
         <meta charset="UTF-8" />					
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Awesome videos!" />
@@ -9,7 +9,7 @@
     </head>
     <body>
         <header>
-            <h1 class="w100 text-center"><a href="index.php">YouTube Viral Search</a></h1>
+            <h1 class="w100 text-center"><a href="index.php">Cari Video Yang Viewer Terbanyak</a></h1>
         </header>
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
